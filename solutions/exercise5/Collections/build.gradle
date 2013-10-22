@@ -1,0 +1,11 @@
+apply plugin: 'java'
+apply plugin:'application'
+mainClassName = "Main"
+
+repositories {
+  mavenCentral()
+}
+
+dependencies {
+  compile group: 'com.google.guava', name: 'guava', version: '15.0'
+}
