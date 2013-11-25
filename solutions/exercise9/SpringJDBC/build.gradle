@@ -1,0 +1,12 @@
+apply plugin: 'java'
+apply plugin:'application'
+mainClassName = 'tw.codedata.Main'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'org.springframework:spring-jdbc:3.2.5.RELEASE'
+    compile 'org.hsqldb:hsqldb:2.3.1'
+}
