@@ -1,2 +1,15 @@
-/solutions/exercise7/Bank/build/
-/solutions/exercise7/Bank/.nb-gradle/profiles/private/
+#netbeans
+.nb-gradle
+
+#gradle
+.gradle
+
+#general swap/backup files
+*.so
+*.log
+*.out
+*~
+*.swp
+*.DS_Store
+*.lock
+
