@@ -7,6 +7,6 @@ repositories {
 }
 
 dependencies {
-    compile 'org.springframework:spring-jdbc:4.0.0.RELEASE'
+    compile 'org.springframework:spring-jdbc:3.2.5.RELEASE'
     compile 'org.hsqldb:hsqldb:2.3.1'
 }
