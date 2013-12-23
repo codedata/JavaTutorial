@@ -22,7 +22,7 @@ Java Tutorial
  - [Java Tutorial 第三堂（3）使用 Servlet、JSP 開發 Web 應用程式](http://www.codedata.com.tw/java/java-tutorial-the-3rd-class-3-servlet-jsp/)
 
 - Java Tutorial 第四堂
- - [Java Tutorial 第四堂（1）使用 spring-webmvc 框架（即將發表）](http://www.codedata.com.tw/java/java-tutorial-the-4th-class-1-spring-webmvc/)
+ - [Java Tutorial 第四堂（1）使用 spring-webmvc 框架](http://www.codedata.com.tw/java/java-tutorial-the-4th-class-1-spring-webmvc/)
  - Java Tutorial 第四堂（2）使用 spring 相依注入（即將發表）
  - ... 待續
 
