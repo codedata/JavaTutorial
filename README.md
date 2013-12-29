@@ -27,7 +27,7 @@ Java Tutorial
  - Java Tutorial 第四堂（3）Hibernate 與 JPA（即將發表）
 
 - Java Tutorial 第五堂
- - Java Tutorial 第五堂（1）使用 spring-orm 整合 Hibernate
+ - Java Tutorial 第五堂（1）使用 spring-orm 整合 Hibernate（即將發表）
  - ...待續
 
 ------------
