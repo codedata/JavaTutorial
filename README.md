@@ -28,7 +28,7 @@ Java Tutorial
 
 - Java Tutorial 第五堂
  - [Java Tutorial 第五堂（1）使用 spring-orm 整合 Hibernate](http://www.codedata.com.tw/java/java-tutorial-the-5th-class-1-spring-orm/)
- - * [Java Tutorial 第五堂（2）JUnit 與 Gradle](http://www.codedata.com.tw/java/java-tutorial-the-5th-class-2-junit-gradle/)
+ - [Java Tutorial 第五堂（2）JUnit 與 Gradle](http://www.codedata.com.tw/java/java-tutorial-the-5th-class-2-junit-gradle/)
  - 待續...
 
 ------------
