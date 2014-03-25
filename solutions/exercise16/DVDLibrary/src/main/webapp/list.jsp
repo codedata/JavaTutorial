@@ -12,7 +12,7 @@
             <ul>
                <li>Year: ${dvd.year}</li>
                <li>Duration: ${dvd.duration}</li>
-               <li>Director: ${dvd.director}</li>
+               <li>Director: ${dvd.director.name}</li>
             </ul>
             <hr>
         </c:forEach>
