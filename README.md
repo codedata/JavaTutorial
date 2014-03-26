@@ -30,7 +30,10 @@ Java Tutorial
  - [Java Tutorial 第五堂（1）使用 spring-orm 整合 Hibernate](http://www.codedata.com.tw/java/java-tutorial-the-5th-class-1-spring-orm/)
  - [Java Tutorial 第五堂（2）JUnit 與 Gradle](http://www.codedata.com.tw/java/java-tutorial-the-5th-class-2-junit-gradle/)
  - [Java Tutorial 第五堂（3）測試與重構 DvdController](http://www.codedata.com.tw/java/java-tutorial-the-5th-class-3-test-driven/)
- - 待續...
+
+ - Java Tutorial 第六堂
+ - [Java Tutorial 第六堂（1）REST 與 JAX-RS](http://www.codedata.com.tw/java/java-tutorial-the-6th-class-1-rest-jax-rs/)
+ - ...
 
 ------------
 http://www.codedata.com.tw
