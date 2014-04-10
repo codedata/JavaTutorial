@@ -1,0 +1,35 @@
+apply plugin: 'tomcat'
+
+buildscript {
+    repositories {
+        jcenter()
+    }
+
+    dependencies {
+        classpath 'org.gradle.api.plugins:gradle-tomcat-plugin:1.0'
+    }
+}
+ 
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    providedCompile 'javax.servlet:javax.servlet-api:3.1.0'
+
+    compile 'org.glassfish.jersey.ext:jersey-mvc-jsp:2.7'
+    compile 'org.springframework:spring-web:4.0.0.RELEASE'
+    compile 'org.springframework:spring-orm:4.0.0.RELEASE'
+    compile 'org.hsqldb:hsqldb:2.3.1'
+    runtime 'jstl:jstl:1.2'
+
+    compile 'org.hibernate:hibernate-core:4.3.0.Final'
+    compile group: 'com.google.guava', name: 'guava', version: '15.0'
+    
+    def tomcatVersion = '7.0.11'
+    tomcat "org.apache.tomcat.embed:tomcat-embed-core:${tomcatVersion}",
+           "org.apache.tomcat.embed:tomcat-embed-logging-juli:${tomcatVersion}"
+    tomcat("org.apache.tomcat.embed:tomcat-embed-jasper:${tomcatVersion}") {
+        exclude group: 'org.eclipse.jdt.core.compiler', module: 'ecj'
+    }
+}
