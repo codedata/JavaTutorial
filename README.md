@@ -34,7 +34,7 @@ Java Tutorial
 - Java Tutorial 第六堂
  - [Java Tutorial 第六堂（1）REST 與 JAX-RS](http://www.codedata.com.tw/java/java-tutorial-the-6th-class-1-rest-jax-rs/)
  - [Java Tutorial 第六堂（2）使用 Jersey 實作 MVC](http://www.codedata.com.tw/java/java-tutorial-the-6th-class-2-jersey-mvc/)
- - Java Tutorial 第六堂（3）整合 Jersey MVC、Spring 與 Hibernate
+ - [Java Tutorial 第六堂（3）整合 Jersey/Spring/Hibernate](http://www.codedata.com.tw/java/java-tutorial-the-6th-class-3-jersey-spring-hibernate/)
 
 ------------
 http://www.codedata.com.tw
