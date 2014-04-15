@@ -5,6 +5,8 @@ Java Tutorial
 
 六小時絕對不可能讓開發者完全學會某個技術，然後用該技術飛天鑽地，六小時目的在於介紹一個技術的輪廊，某些程度上要呈現該技術的優良部份（The good part），並期望在六小時課程結束之後，開發者可以有個出發點與方向，自行去參與更多的主題，研究更多的內容。
 
+你可以在 [Google Play](https://play.google.com/store/books/details?id=LaJbAwAAQBAJ) 或 [Pubu](http://www.pubu.com.tw/ebook/Java-Tutorial-Learn-Java-in-06-00-00-30862) 上，取得本系列的電子書版本。
+
 - Java Tutorial 第一堂
  - [Java Tutorial 第一堂（1）JDK 版本與實作](http://www.codedata.com.tw/java/java-tutorial-the-1st-class-1-jdk-versions-and-implementations/)
  - [Java Tutorial 第一堂（2）準備課程環境](http://www.codedata.com.tw/java/java-tutorial-the-1st-class-2-preparing-course-environment)
