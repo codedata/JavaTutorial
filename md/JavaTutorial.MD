@@ -1434,7 +1434,7 @@ public class HelloWorld extends HttpServlet {
 }
 ```
 
-`Servlet` 繼承自 `javax.servlet.http.HttpServlet`，如果你要處理 `GET` 請求，就重新定義 `doGet` 方法，`javax.servlet.http.HttpServletRequest` 與 `javax.servlet.http.HttpServletRequest` 分別代表請求與回應物件，呼叫 `HttpServletRequest` 的 `getWriter` 取得輸出資料用的物件後，呼叫 `println` 方法就可輸出字串回應。
+`Servlet` 繼承自 `javax.servlet.http.HttpServlet`，如果你要處理 `GET` 請求，就重新定義 `doGet` 方法，`javax.servlet.http.HttpServletRequest` 與 `javax.servlet.http.HttpServletResponse` 分別代表請求與回應物件，呼叫 `HttpServletResponse` 的 `getWriter` 取得輸出資料用的物件後，呼叫 `println` 方法就可輸出字串回應。
 
 注意 `urlPatterns` 設定為 `"/hello.view"`，這表示資源的 URL 是 `/hello.view`，因此接下來，你只要執行 `gradle tomcatRunWar`，開啟瀏覽器請求 http://localhost:8080/BasicWeb/hello.view，就可以看到以下畫面：
 
